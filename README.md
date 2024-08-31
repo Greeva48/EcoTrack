@@ -18,7 +18,7 @@ Clone the repository:
 git clone https://github.com/Greeva48/EcoTrack.git
 cd EcoTrack
 
-#Install dependencies:
+#Install Dependencies:
 npm install
 
 #Set up environment variables:
